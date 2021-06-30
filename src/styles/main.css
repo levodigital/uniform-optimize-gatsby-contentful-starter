@@ -8,6 +8,10 @@ body {
   margin: 0;
 }
 
+#nav-content.bg-gray-100 ul li a {
+    color: #fff;
+}
+
 .gradient {
   background: linear-gradient(90deg, #070072 0%, #5A50FF 100%);
 }
