@@ -56,7 +56,7 @@ export const NavBar = () => {
                 : "no-underline hover:no-underline font-bold text-2xl lg:text-4xl  text-white"
             }
           >
-            <img style="height: 35px;" class="header-logo" src="https://www.levo.com.au/Static/assets/images/Levo-Logo-2020-Purple.svg" alt="Levo">
+            <img style="height: 35px;" class="header-logo" src="https://www.levo.com.au/Static/assets/images/Levo-Logo-2020-Purple.svg" alt="Levo"/>
           </Link>
         </div>
         <div className="block lg:hidden pr-4">
